@@ -1,0 +1,6 @@
+@APIG_HostAddress = http://localhost:5187
+
+GET {{APIG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
